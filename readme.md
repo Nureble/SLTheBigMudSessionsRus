@@ -1,4 +1,4 @@
-# Русификатор для Sludge Life: The Bit Mud Sessions
+# Русификатор для SLUDGE LIFE: The BIG MUD Sessions
 
 Данный репозиторий содержит 2 файла, которые русифицируют **SLUDGE LIFE: The BIG MUD Sessions**.
 
